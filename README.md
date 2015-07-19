@@ -1,7 +1,7 @@
 # Light wave Bootstrap portfolio sample
 ---
 
-This is a sample of creating a animated and filtered portifolio using Bootstrap 3.
+This is a sample of creating an animated and filtered portfolio using Bootstrap 3.
 
 ----
 
@@ -26,3 +26,11 @@ This is a sample of creating a animated and filtered portifolio using Bootstrap 
 ---
 
 Sample based on http://www.designbootstrap.com themes.
+
+### License
+---
+
+[MIT](https://raw.githubusercontent.com/acbarbosa1964/light-wave-bootstrap-portfolio-sample/master/LICENSE) for this project.
+
+Copyright (c) 2015 Antonio Carlos Barbosa
+Released under the MIT license
