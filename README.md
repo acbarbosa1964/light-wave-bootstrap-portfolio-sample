@@ -1,7 +1,8 @@
 # Light wave Bootstrap portfolio sample
-=======================================
+---
 
 This is a sample of creating a animated and filtered portifolio using Bootstrap 3.
+
 ----
 
 ![Screenshot](https://raw.githubusercontent.com/acbarbosa1964/light-wave-bootstrap-portfolio-sample/master/screenshot/screenshot.jpg)
@@ -25,5 +26,3 @@ This is a sample of creating a animated and filtered portifolio using Bootstrap 
 ---
 
 Sample based on http://www.designbootstrap.com themes.
-
-
