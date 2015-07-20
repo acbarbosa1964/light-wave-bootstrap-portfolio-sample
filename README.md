@@ -22,6 +22,49 @@ This is a sample of creating an animated and filtered portfolio using Bootstrap 
 - jQuery Easing - http://gsgd.co.uk/sandbox/jquery/easing/
 - Isotope - https://github.com/metafizzy/isotope
 
+### Download
+
+Dependences download:
+
+[Portfolio Sample](https://github.com/acbarbosa1964/light-wave-bootstrap-portfolio-sample/archive/master.zip)
+
+You will need asset folder in your root project.
+
+## How to use with [ACB Bootstrap Snippets](https://github.com/acbarbosa1964/acb-bootstrap-snippets)
+---
+### Load CSS files
+
+Inside head tag use
+
+- bs3portfoliocss
+
+### Append jQuery script 
+
+In script section use:
+
+- bs3portfoliojs
+
+### Load Javascript Libs dependences
+
+After Javascript file load use:
+
+- bs3portfoliolibs
+
+### Insert Portfolio
+
+Inside body tag put the portfolio block of Bootstrap HTML:
+
+- bs3portfolio
+
+Now you can custumize to fit your projects needs;
+
+---
+### Complete example:
+---
+
+Click [here](https://raw.githubusercontent.com/acbarbosa1964/light-wave-bootstrap-portfolio-sample/master/portfolio.html)  to see a working sample;
+
+
 ### Credits
 ---
 
