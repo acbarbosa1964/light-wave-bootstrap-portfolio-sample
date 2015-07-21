@@ -5,7 +5,7 @@ This is a sample of creating an animated and filtered portfolio using Bootstrap 
 
 ----
 
-![Screenshot](https://raw.githubusercontent.com/acbarbosa1964/light-wave-bootstrap-portfolio-sample/master/screenshot/screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/acbarbosa1964/light-wave-bootstrap-portfolio-sample/master/screenshot/light-wave-sample.gif)
 
 ## Features
 ---
